@@ -36,6 +36,7 @@ Antes de instalar el proyecto, asegúrate de tener instalado lo siguiente:
    ```bash
    npm install
    ```
+
 4. **Configurar las variables de entorno **
 
    Crea un archivo .env en la raíz del proyecto y configura las siguientes variables:
@@ -47,6 +48,30 @@ Antes de instalar el proyecto, asegúrate de tener instalado lo siguiente:
    DB_NAME=nombre_base_datos
    PORT=puerto_a_usar
    ```
+
+## **Ejecutar el proyecto**
+
+ 1. **Modo de desarrollo**
+
+   Para iniciar el servidor en modo de desarrollo (con recarga automática), utiliza:
+
+   ```bash
+   npm run dev
+   ```
+
+ 2. **Modo de producción**
+
+   Para ejecutar el proyecto en modo de producción, utiliza:
+   
+   ```bash
+   npm run start
+   ```
+
+## **Ejecutar el proyecto**
+
+ - Este proyecto requiere Node.js 22 o superior.
+ - Asegúrate de que tu base de datos esté funcionando antes de iniciar el servidor.
+ - Usa herramientas como Postman para probar las rutas del servidor.
 
 
 
