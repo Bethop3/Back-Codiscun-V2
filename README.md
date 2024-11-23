@@ -23,7 +23,7 @@ Antes de instalar el proyecto, asegúrate de tener instalado lo siguiente:
    ```bash
    git clone https://github.com/tu_usuario/Back-Codiscun-V2.git
 
-Luego, navega al directorio del proyecto:
+ 2. **Luego, navega al directorio del proyecto**
 
 ```bash
 cd Back-Codiscun-V2
