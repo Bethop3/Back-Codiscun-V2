@@ -8,7 +8,7 @@ Este es un proyecto de backend configurado con Node.js para gestionar la base de
 
 Antes de instalar el proyecto, asegúrate de tener instalado lo siguiente:
 
-- **Node.js**: Versión 22 o superior (puedes verificar la versión ejecutando `node --version`).
+- **Node.js**: Versión 22.11.0 o superior (puedes verificar la versión ejecutando `node --version`).
 - **npm**: Incluido con Node.js, usado para gestionar paquetes.
 - **Base de datos**: Configurada en el archivo `.env` (ver sección Configuración).
 
