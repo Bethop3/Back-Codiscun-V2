@@ -22,3 +22,15 @@ Antes de instalar el proyecto, asegúrate de tener instalado lo siguiente:
 
    ```bash
    git clone https://github.com/tu_usuario/Back-Codiscun-V2.git
+
+Luego, navega al directorio del proyecto:
+
+```bash
+cd Back-Codiscun-V2
+
+## 2. **Instalar dependencias**
+
+Una vez dentro del proyecto, ejecuta el siguiente comando para instalar todas las dependencias:
+
+```bash
+npm install
