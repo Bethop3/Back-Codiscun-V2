@@ -28,9 +28,3 @@ Luego, navega al directorio del proyecto:
 ```bash
 cd Back-Codiscun-V2
 
-## 2. **Instalar dependencias**
-
-Una vez dentro del proyecto, ejecuta el siguiente comando para instalar todas las dependencias:
-
-```bash
-npm install
